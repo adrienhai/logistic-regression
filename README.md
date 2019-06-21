@@ -1,2 +1,2 @@
 # logistic-regression
-Logisitic regression
+Logisitic regression in C++
